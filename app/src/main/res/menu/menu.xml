@@ -3,4 +3,8 @@
     <item android:id="@+id/menu_perfil"
         android:title="Mi perfil">
     </item>
+    <item android:id="@+id/menu_map"
+        android:title="Ubication">
+    </item>
+
 </menu>
